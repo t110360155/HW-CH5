@@ -1,0 +1,188 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hw1",
+            "request": "launch",
+            "mainClass": "hw1",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw10",
+            "request": "launch",
+            "mainClass": "hw10",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw11",
+            "request": "launch",
+            "mainClass": "hw11",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw12",
+            "request": "launch",
+            "mainClass": "hw12",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw13",
+            "request": "launch",
+            "mainClass": "hw13",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw14",
+            "request": "launch",
+            "mainClass": "hw14",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw15",
+            "request": "launch",
+            "mainClass": "hw15",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw16",
+            "request": "launch",
+            "mainClass": "hw16",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw17",
+            "request": "launch",
+            "mainClass": "hw17",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw18",
+            "request": "launch",
+            "mainClass": "hw18",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw19",
+            "request": "launch",
+            "mainClass": "hw19",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw20",
+            "request": "launch",
+            "mainClass": "hw20",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw21",
+            "request": "launch",
+            "mainClass": "hw21",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw22",
+            "request": "launch",
+            "mainClass": "hw22",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw5",
+            "request": "launch",
+            "mainClass": "hw5",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw6",
+            "request": "launch",
+            "mainClass": "hw6",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw7",
+            "request": "launch",
+            "mainClass": "hw7",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw8",
+            "request": "launch",
+            "mainClass": "hw8",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw2",
+            "request": "launch",
+            "mainClass": "pa.hw2",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw3",
+            "request": "launch",
+            "mainClass": "pb.hw3",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        },
+        {
+            "type": "java",
+            "name": "hw4",
+            "request": "launch",
+            "mainClass": "pb.hw4",
+            "projectName": "112-1-mmslab-java-ch05_21535f38"
+        }
+    ]
+}
